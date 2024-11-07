@@ -5,6 +5,9 @@ yifinance is a Python library that fetched data from yahoo finance.
 we will try to use it, to show a list of best etfs by performance,
 with more useful information in a table.
 
+after testing, i found a different python library called investpy 
+which does the same but on investing.com
+it seems to have much wider use cases, and more data.
 
 ## Helpfull links
 
